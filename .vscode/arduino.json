@@ -1,0 +1,5 @@
+{
+    "configuration": "softdevice=none,lfclk=lfxo",
+    "board": "SparkFun:nRF5:nRF52DK",
+    "programmer": "cmsisdap"
+}
